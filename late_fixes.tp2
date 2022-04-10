@@ -1,0 +1,6 @@
+BACKUP ~late_fixes/backup~
+AUTHOR ~mickabouille~
+
+BEGIN ~Fix 'Maze Leaving Permanent Effects on Characters'~
+DESIGNATED 10
+COPY ~late_fixes/data/SPIN774.spl~
